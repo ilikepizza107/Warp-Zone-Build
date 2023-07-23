@@ -92,6 +92,9 @@ ROY
 
 TOON LINK
 
+KNUCKLES
+12 - Trans Knuckles by DHS7
+
 WOLF
 
 SNAKE
@@ -100,9 +103,8 @@ SONIC
 
 WARIO MAN
 
-BOWSER
+GIGA BOWSER
 
-KNUCKLES
 
 
 ########################
