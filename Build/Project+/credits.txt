@@ -17,6 +17,7 @@ SAMUS
 YOSHI
 
 KIRBY
+25 - influenza Kirby by influenza
 
 FOX
 30 - Drip Fox by Wyld
@@ -27,7 +28,7 @@ LUIGI
 
 CAPTAIN FALCON
 09 - Shad Falcon by influenza
-35 - Stude Falcon by Motobug(?)
+35 - Stude Falcon by Motobug
 36 - ORLY Falcon by Wyld
 
 NESS
@@ -41,14 +42,18 @@ ZELDA
 SHEIK
 
 ICE CLIMBERS
+06 - Serb Icies by SJS
 
 MARTH
 
 MR. GAME & WATCH
+17 - WnL GnW
 
 FALCO
 
 GANONDORF
+26 - Che Ganondorf by DHS7
+40 - joey Ganondorf by DHS7
 
 META KNIGHT
 
@@ -69,6 +74,7 @@ CHARIZARD
 SQUIRTLE
 
 IVYSAUR
+25 - Blue Kool-Aid Substitute Ivy by mawwwk, with credit to LnktheWolf, StarWaffle, Nanobuds, Moblin, Ryztiq
 
 DEDEDE
 
