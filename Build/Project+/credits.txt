@@ -2,6 +2,9 @@
 PSA
 ################
 
+Custom GFX for Evil Lesbian Zelda - Evil Lesbian, ilikepizza107
+ - PSA Edited: Sub Action 48, GFX; Sub Action 4E, GFX; Sub Action 50, GFX; Sub Action 54, GFX; Sub Action 58, Main; Sub Action 5D, Main; Sub Action 5D, GFX; Sub Action 60, GFX; Sub Action 62, GFX; Sub Action 63, GFX; Sub Action 64, GFX; Sub Action 65, GFX; Sub Action 66, GFX; Sub Action 67, GFX
+
 ################
 SKINS
 ################
@@ -38,8 +41,17 @@ BOWSER
 PEACH
 
 ZELDA
+09 - Serb Zelda by ilikepizza107
+30 - Tuck Zelda by Tuck, ilikepizza107, using Hulkalex's Skyward Sword Zelda model [http://www.mediafire.com/file/1b0t0ned2djzmg2/Zelda+Skyloft.zip/file]
+31 - Evil Lesbian Zelda by Evil Lesbian, ilikepizza107, using Hulkalex's Skyward Sword Zelda model [http://www.mediafire.com/file/1b0t0ned2djzmg2/Zelda+Skyloft.zip/file]
+32 - KWAM Zelda by ilikepizza107, using Hulkalex's Skyward Sword Zelda model [http://www.mediafire.com/file/1b0t0ned2djzmg2/Zelda+Skyloft.zip/file]
+
 
 SHEIK
+09 - Serb Sheik by ilikepizza107
+30 - RoSheik by jetfantastic [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=213577]
+31 - Evil Lesbian Sheik by Evil Lesbian, ilikepizza107
+32 - KWAM Sheik by ilikepizza107
 
 ICE CLIMBERS
 06 - Serb Icies by SJS
