@@ -26,11 +26,15 @@ YOSHI
 
 KIRBY
 25 - influenza Kirby by influenza
+40 - WnL Kirby by Mr. Watch&Learn, with credit to SJS and KingJigglypuff
+45 - Star Red Kirby by influenza
+46 - Star Kirby by influenza
+47 - Star Green Kirby by influenza
 
 FOX
-15 - Silver Fox by Baka
-16 - Star Green Fox by ilikepizza107
-17 - Star Blue Fox by ilikepizza107
+15 - Star Red Fox by ilikepizza107
+16 - Silver Fox by Baka
+17 - Star Green Fox by ilikepizza107
 30 - Drip Fox by Wyld
 
 PIKACHU
