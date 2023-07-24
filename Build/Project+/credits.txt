@@ -8,6 +8,9 @@ Custom GFX for Evil Lesbian Zelda - Evil Lesbian, ilikepizza107
 Custom GFX for Sicle Charizard - ilikepizza107, with credit to Extreme
  - PSA Edited: Sub Action 1, GFX; Sub Action 19, Main; Sub Action 19, GFX; Sub Action 3C, Main; Sub Action 3C, GFX; Sub Action 55, Main; Sub Action 58, Main; Sub Action 58, GFX; Sub Action 62, Main; Sub Action 62, GFX; Sub Action 63, Main; Sub Action 63, GFX; Sub Action 64, Main; Sub Action 74, Main; Sub Action 74, GFX; Sub Action 75, Main; Sub Action 75, GFX; Sub Action DC, Main; Sub Action 1C2, GFX; Sub Action 1C4, GFX; Sub Action 1D5, Main; Sub Action 1D5, GFX; Sub Action 1D7, Main; Sub Action 1D8, Main; 1D8, GFX; Sub Action 1D9, GFX; Sub Action 1DA, GFX; Sub Routine 0x247F0, Sub Routine 0x251D0; Sub Routine 0x265A8
 
+Custom GFX for Star Lucas - Star, ilikepizza107
+ - PSA Edited: Sub Action 48, GFX; Sub Action 49, GFX; Sub Routine 62, GFX; Sub Routine 63, GFX; Sub Routine 61, Other; Sub Routine 66, GFX, Sub Routine 66, Other;
+
 ################
 SKINS
 ################
@@ -88,6 +91,9 @@ OLIMAR
 40 - joey Olimar by Motobug(?)
 
 LUCAS
+40 - Star Red Lucas by Star, SJS
+41 - Star Blue Lucas by Star, SJS
+42 - Star Green Lucas by Star, SJS
 
 DIDDY KONG
 
@@ -150,7 +156,6 @@ All -2023 Smashville plat animation by Motobug
 
 HAMMER EXPRESS
 Base - Hammer Express by Nezha the Scout, KingJigglypuff, Ryztiq, Kirbeast, fudgepop01, eon_tas, Survivian, Electropolitan [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=220257]
-
 
 ################
 MENUS
