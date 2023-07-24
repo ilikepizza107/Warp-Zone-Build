@@ -5,6 +5,9 @@ PSA
 Custom GFX for Evil Lesbian Zelda - Evil Lesbian, ilikepizza107
  - PSA Edited: Sub Action 48, GFX; Sub Action 4E, GFX; Sub Action 50, GFX; Sub Action 54, GFX; Sub Action 58, Main; Sub Action 5D, Main; Sub Action 5D, GFX; Sub Action 60, GFX; Sub Action 62, GFX; Sub Action 63, GFX; Sub Action 64, GFX; Sub Action 65, GFX; Sub Action 66, GFX; Sub Action 67, GFX
 
+Custom GFX for Sicle Charizard - ilikepizza107, with credit to Extreme
+ - PSA Edited: Sub Action 1, GFX; Sub Action 19, Main; Sub Action 19, GFX; Sub Action 3C, Main; Sub Action 3C, GFX; Sub Action 55, Main; Sub Action 58, Main; Sub Action 58, GFX; Sub Action 62, Main; Sub Action 62, GFX; Sub Action 63, Main; Sub Action 63, GFX; Sub Action 64, Main; Sub Action 74, Main; Sub Action 74, GFX; Sub Action 75, Main; Sub Action 75, GFX; Sub Action DC, Main; Sub Action 1C2, GFX; Sub Action 1C4, GFX; Sub Action 1D5, Main; Sub Action 1D5, GFX; Sub Action 1D7, Main; Sub Action 1D8, Main; 1D8, GFX; Sub Action 1D9, GFX; Sub Action 1DA, GFX; Sub Routine 0x247F0, Sub Routine 0x251D0; Sub Routine 0x265A8
+
 ################
 SKINS
 ################
@@ -46,7 +49,6 @@ ZELDA
 31 - Evil Lesbian Zelda by Evil Lesbian, ilikepizza107, using Hulkalex's Skyward Sword Zelda model [http://www.mediafire.com/file/1b0t0ned2djzmg2/Zelda+Skyloft.zip/file]
 32 - KWAM Zelda by ilikepizza107, using Hulkalex's Skyward Sword Zelda model [http://www.mediafire.com/file/1b0t0ned2djzmg2/Zelda+Skyloft.zip/file]
 
-
 SHEIK
 09 - Serb Sheik by ilikepizza107
 30 - RoSheik by jetfantastic [http://forums.kc-mm.com/Gallery/BrawlView.php?Number=213577]
@@ -82,6 +84,7 @@ DIDDY KONG
 MEWTWO
 
 CHARIZARD
+10 - Sicle Charizard by ilikepizza107
 
 SQUIRTLE
 
