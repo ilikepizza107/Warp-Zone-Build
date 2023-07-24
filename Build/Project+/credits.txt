@@ -116,6 +116,7 @@ KNUCKLES
 WOLF
 
 SNAKE
+06 - LTWB Snake by SoulOfficer
 
 SONIC
 
