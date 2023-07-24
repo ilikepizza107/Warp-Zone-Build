@@ -132,6 +132,7 @@ KNUCKLES
 12 - Trans Knuckles by DHS7
 
 WOLF
+06 - Cloudburst Wolf by FingerStripes
 
 SNAKE
 06 - LTWB Snake by SoulOfficer
