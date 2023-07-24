@@ -13,6 +13,7 @@ SKINS
 ################
 
 MARIO
+40 - Xbox Sunshine Mario by mawwwk, with credit to SJ, StarWaffle, and tyleto
 
 DONKEY KONG
 
