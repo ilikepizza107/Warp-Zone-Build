@@ -26,6 +26,9 @@ KIRBY
 25 - influenza Kirby by influenza
 
 FOX
+15 - Silver Fox by Baka
+16 - Star Green Fox by ilikepizza107
+17 - Star Blue Fox by ilikepizza107
 30 - Drip Fox by Wyld
 
 PIKACHU
