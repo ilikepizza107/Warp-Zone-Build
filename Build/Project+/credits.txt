@@ -16,6 +16,7 @@ SKINS
 ################
 
 MARIO
+07 - LoyaL Mario by ilikepizza107
 40 - Xbox Sunshine Mario by mawwwk, with credit to SJ, StarWaffle, and tyleto
 
 DONKEY KONG
