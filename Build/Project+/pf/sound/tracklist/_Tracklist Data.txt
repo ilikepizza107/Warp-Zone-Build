@@ -1,5 +1,5 @@
 ################
-Battlefield.tlst - 11 tracks
+Battlefield.tlst - 13 tracks
 
 	Battlefield (Brawl)
 	X04.brstm (0x26FC)
@@ -37,16 +37,26 @@ Battlefield.tlst - 11 tracks
 
 	Shin Onigashima
 	Q08.brstm (0x27CA)
-	Frequency: 40
+	Frequency: 80
 
 	Heat in Your Heart (No More Heroes)
 	No More Heroes/Heat in Your Heart (No More Heroes).brstm
-	Volume: 60
+	Volume: 58
 	Frequency: 80
 
 	Grom Electroswing
 	Various Artists/Grom Electroswing (Maarble).brstm
 	Volume: 75
+	Frequency: 80
+
+	Daughter of Hallownest (Hollow Knight)
+	Hollow Knight/Daughter of Hallownest (Hollow Knight).brstm
+	Volume: 85
+	Frequency: 80
+
+	Devastation's Duel (Super Mario 64)
+	Mario/Devastation's Duel [OCRemix] (Super Mario 64).brstm
+	Volume: 68
 	Frequency: 80
 
 ################
@@ -748,17 +758,17 @@ Dream_Land.tlst - 10 tracks
 
 	Spelunking in Space (Kirby Super Star)
 	Kirby/Spelunking in Space [OCRemix] (Kirby Super Star).brstm
-	Volume: 70
-	Frequency: 40
+	Volume: 60
+	Frequency: 80
 
 	Final Boss (The Murder of Sonic the Hedgehog)
 	Sonic/Final Boss (The Murder of Sonic the Hedgehog).brstm
-	Volume: 100
+	Volume: 85
 	Frequency: 80
 
 	City Ruins - Shade (Nier Automata)
 	Nier/City Ruins - Shade (Nier Automata).brstm
-	Volume: 80
+	Volume: 83
 	Frequency: 80
 
 ################
@@ -842,6 +852,14 @@ Dream_Land_DPAD.tlst - 15 tracks
 	Frequency: 40
 
 ################
+Dream_Land_DPADUP.tlst - 1 track
+
+	Gourmet Race
+	Kirby/Gourmet Race (SSB).brstm
+	Volume: 65
+	Frequency: 40
+
+################
 Dream_Land_Winter.tlst - 2 tracks
 
 	Rainbow Route
@@ -909,7 +927,7 @@ Final_Destination.tlst - 9 tracks
 
 	Motormaster (Transformers Devastation)
 	Transformers/Motormaster (Transformers Devastation).brstm
-	Volume: 80
+	Volume: 72
 	Frequency: 80
 
 	The Galaxy Reactor (Super Mario Galaxy)
@@ -1065,12 +1083,12 @@ Frigate_Orpheon.tlst - 10 tracks
 
 	Purple Town (Border Down)
 	Border Down/Purple Town (Border Down).brstm
-	Volume: 75
+	Volume: 72
 	Frequency: 80
 
 	Ogre Boss Theme (Street Fighter X Tekken)
 	Street Fighter X Tekken/Ogre Boss Theme (Street Fighter X Tekken).brstm
-	Volume: 127
+	Volume: 70
 	Frequency: 80
 
 	VS Chykka Flyer (Metroid Prime 2)
@@ -1080,7 +1098,7 @@ Frigate_Orpheon.tlst - 10 tracks
 
 	Unavoidable Battle (Persona 3)
 	Persona/Unavoidable Battle (Persona 3 Reincarnation).brstm
-	Volume: 80
+	Volume: 75
 	Frequency: 80
 
 ################
@@ -1456,12 +1474,12 @@ Luigis_Mansion.tlst - 6 tracks
 
 	Good for Health, Bad for Education
 	VA-11 Hall-A/Good for Health, Bad for Education (VA-11 Hall-A).brstm
-	Volume: 90
+	Volume: 115
 	Frequency: 80
 
 	Deva-Yuga (Persona 1 PSP)
 	Persona/Deva-Yuga (Persona 1 PSP).brstm
-	Volume: 80
+	Volume: 75
 	Frequency: 80
 
 	Scattered and Lost (Celeste)
@@ -1471,7 +1489,7 @@ Luigis_Mansion.tlst - 6 tracks
 
 	Monstrous Turtles! (Super Mario World)
 	Mario/Monstrous Turtles! [OCRemix] (Super Mario World).brstm
-	Volume: 70
+	Volume: 55
 	Frequency: 80
 
 ################
@@ -1634,7 +1652,7 @@ Mario_Paint.tlst - 1 track
 	Frequency: 40
 
 ################
-Menu.tlst - 11 tracks
+Menu.tlst - 13 tracks
 
 	Menu 1
 	X02.brstm (0x26FA)
@@ -1685,6 +1703,16 @@ Menu.tlst - 11 tracks
 	Egg Carrier (Sonic Adventure)
 	Sonic/Egg Carrier (Sonic Adventure).brstm
 	Volume: 80
+	Frequency: 80
+
+	CRT Days (Waveshaper)
+	Various Artists/CRT Days (Waveshaper).brstm
+	Volume: 73
+	Frequency: 80
+
+	Cyborg's Baby (Teen Titans)
+	Teen Titans/Cyborg's Baby (Teen Titans).brstm
+	Volume: 87
 	Frequency: 80
 
 ################
@@ -2090,7 +2118,7 @@ Pokemon_Stadium.tlst - 3 tracks
 	Song delay: -1
 
 ################
-Pokemon_Stadium_2.tlst - 7 tracks
+Pokemon_Stadium_2.tlst - 9 tracks
 
 	Pokémon Red & Blue Medley
 	W10.brstm (0x2808)
@@ -2113,17 +2141,27 @@ Pokemon_Stadium_2.tlst - 7 tracks
 
 	You're Mine (Furi)
 	Furi\You're Mine (Furi).brstm
-	Volume: 75
+	Volume: 65
 	Frequency: 80
 
 	Rebirth Edge (Sengoku Rance)
 	Rance/Rebirth Edge (Sengoku Rance).brstm
-	Volume: 55
+	Volume: 50
 	Frequency: 80
 
 	Battle! Champion Diantha
 	Pokemon/Battle! Champion Diantha.brstm
 	Volume: 105
+	Frequency: 80
+
+	Chaoz Fantasy
+	Various Artists/Chaoz Fantasy (ParagonX9).brstm
+	Volume: 70
+	Frequency: 80
+
+	Last Boss Battle (SMT III)
+	Shin Megami Tensei/Last Boss Battle - After Transformation (Shin Megami Tensei III).brstm
+	Volume: 92
 	Frequency: 80
 
 ################
@@ -2370,7 +2408,7 @@ Rest_Area.tlst - 2 tracks
 	Frequency: 40
 
 ################
-Results.tlst - 58 tracks
+Results.tlst - 59 tracks
 
 	Also Sprach Brooks (Catherine)
 	Catherine/Also Sprach Brooks (Catherine).brstm
@@ -2382,24 +2420,24 @@ Results.tlst - 58 tracks
 	Volume: 80
 	Frequency: 40
 
-	File Info (Mario Galaxy)
-	Z01.brstm
+	File Info (Super Mario Galaxy)
+	Mario/File Info (Super Mario Galaxy).brstm
 	Volume: 80
-	Frequency: 0
+	Frequency: 40
 
-	Nostalgia 2 (Mario Galaxy)
-	Z01.brstm
-	Volume: 80
-	Frequency: 0
+	Nostalgia 2 (Super Mario Galaxy)
+	Mario/Nostalgia 2 (Super Mario Galaxy).brstm
+	Volume: 95
+	Frequency: 40
 
 	Sultry Night (God Hand)
 	God Hand/Sultry Night (God Hand).brstm
-	Volume: 80
+	Volume: 70
 	Frequency: 40
 
 	Bubblaine (Super Mario Odyssey)
 	Mario/Bubblaine (Super Mario Odyssey).brstm
-	Volume: 95
+	Volume: 110
 	Frequency: 40
 
 	Network Lobby Music (Darkstalkers Chronicle)
@@ -2409,7 +2447,12 @@ Results.tlst - 58 tracks
 
 	Deadbird Studio Reception Lounge (A Hat In Time)
 	A Hat In Time/Deadbird Studio Reception Lounge (A Hat In Time).brstm
-	Volume: 80
+	Volume: 85
+	Frequency: 40
+
+	Menu (Metal Gear Solid 2)
+	Metal Gear Solid/Menu (Metal Gear Solid 2).brstm
+	Volume: 84
 	Frequency: 40
 
 	Mario
@@ -2879,30 +2922,32 @@ Smashville.tlst - 12 tracks
 	Q09.brstm (0x27CB)
 	Frequency: 0
 
-	Erudite Eyes (Under Night In-Birth)
-	Under Night In-Birth/Erudite Eyes (Under Night In-Birth Exe Late).brstm
-	Volume: 80
-	Frequency: 80
-
 	Ride on Technology (Ghost in the Shell)
 	Ghost in the Shell/Ride on Technology (Ghost in the Shell).brstm
-	Volume: 80
+	Volume: 70
 	Frequency: 80
 
 	Steam Gardens (Super Mario Odyssey)
 	Mario/Steam Gardens (Super Mario Odyssey).brstm
-	Volume: 90
+	Volume: 92
 	Frequency: 80
+	Song delay: 70
 
 	Quo Vadis
 	Various Artists/Quo Vadis (M2U).brstm
-	Volume: 75
+	Volume: 58
 	Frequency: 80
 
 	2:00 a.m. (AC: Wild World)
 	Animal Crossing/2.00 a.m. (Animal Crossing Wild World).brstm
 	Volume: 85
 	Frequency: 80
+
+	Sanctum (Tekken 8)
+	Tekken/Sanctum Theme Round 1 (Tekken 8).brstm
+	Volume: 100
+	Frequency: 80
+	Song delay: 63
 
 ################
 Smashville_Concert.tlst - 6 tracks
@@ -3136,7 +3181,7 @@ Temple.tlst - 5 tracks
 	Frequency: 40
 
 ################
-Temple_of_Time.tlst - 8 tracks
+Temple_of_Time.tlst - 10 tracks
 
 	Main Theme (Twilight Princess ver.)
 	C17.brstm (0x2743)
@@ -3164,12 +3209,22 @@ Temple_of_Time.tlst - 8 tracks
 
 	Melty Molten Galaxy (Super Mario Galaxy)
 	Mario/Melty Molten Galaxy (Super Mario Galaxy).brstm
-	Volume: 90
+	Volume: 97
 	Frequency: 80
 
 	Middle Boss Battle [Re-Arranged]
 	Zelda/Middle Boss Battle [Re-Arranged] (The Legend of Zelda Ocarina of Time).brstm
 	Volume: 80
+	Frequency: 80
+
+	Colgera Theme (LoZ: TotK)
+	Zelda/Colgera Theme (The Legend of Zelda Tears of the Kingdom).brstm
+	Volume: 80
+	Frequency: 80
+
+	Eyes of Umbra (LoZ: Twilight Princess)
+	Zelda/Eyes of Umbra [OCRemix] (The Legend of Zelda Twilight Princess).brstm
+	Volume: 115
 	Frequency: 80
 
 ################
@@ -3389,7 +3444,7 @@ Yoshis_Cookie.tlst - 1 track
 	Frequency: 40
 
 ################
-Yoshis_Island.tlst - 8 tracks
+Yoshis_Island.tlst - 9 tracks
 
 	Athletic (Yoshi's Island)
 	E02.brstm (0x2751)
@@ -3414,17 +3469,22 @@ Yoshis_Island.tlst - 8 tracks
 
 	Jack Da Funk (Bomb Rush Cyberfunk)
 	Bomb Rush Cyberfunk/Jack Da Funk (Bomb Rush Cyberfunk).brstm
-	Volume: 55
+	Volume: 46
 	Frequency: 80
 
-	Battle Rocks [OCReMix] (Super Mario Bros 3)
+	Battle Rocks (Super Mario Bros 3)
 	Mario/Battle Rocks [OCReMix] (Super Mario Bros 3).brstm
 	Volume: 80
 	Frequency: 80
 
 	Streamworks (Shantae and the Pirate's Curse)
 	Shantae/Streamworks (Shantae and the Pirate's Curse).brstm
-	Volume: 90
+	Volume: 102
+	Frequency: 80
+
+	Caravan Bowser (Super Mario 3D World)
+	Mario/Caravan Bowser [OCRemix] (Super Mario 3D World).brstm
+	Volume: 58
 	Frequency: 80
 
 ################
