@@ -89,7 +89,7 @@ PIT
 ZERO SUIT SAMUS
 
 OLIMAR
-40 - joey Olimar by Motobug(?)
+40 - joey Olimar by Motobug
 
 LUCAS
 40 - Star Red Lucas by Star, SJS
@@ -147,7 +147,7 @@ GIGA BOWSER
 
 
 ########################
-STAGES [2023 Toggle]
+STAGES
 ########################
 
 POKEMON STADIUM 2
@@ -171,3 +171,7 @@ New "Ready To Fight!" Model by Xenthos
 "Blast Off!" textures by ilikepizza107
 
 Galaxy Colosseum Results by ilikepizza107, with credit to MetalLegacy, MarioDox and Electropolitan
+
+Strap Screen by RosiYY
+
+CSS + SSS by ilikepizza107
