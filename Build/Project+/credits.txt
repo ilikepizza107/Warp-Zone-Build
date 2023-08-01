@@ -24,6 +24,7 @@ MARIO
 40 - Xbox Sunshine Mario by mawwwk, with credit to SJ, StarWaffle, and tyleto
 
 DONKEY KONG
+AltZ - Sonic the Werehog by ??? (Old BrawlVault mod)
 
 LINK
 
@@ -92,6 +93,7 @@ META KNIGHT
 PIT
 
 ZERO SUIT SAMUS
+40 - Pink Dark ZSS by Hulkalex, with credit to RedipsTheCooler [https://www.mediafire.com/file/bvwgvbx1h9jgsgf/Dark+Zero+Suit+Samus+Recolor.zip/file]
 
 OLIMAR
 40 - joey Olimar by Motobug
@@ -144,13 +146,13 @@ WOLF
 
 SNAKE
 06 - LTWB Snake by SoulOfficer
+07 - MVZY Snake by Wyld
 
 SONIC
 
 WARIO MAN
 
 GIGA BOWSER
-
 
 
 ########################
